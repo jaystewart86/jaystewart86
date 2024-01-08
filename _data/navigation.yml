@@ -18,3 +18,5 @@ main:
     url: /blog/
   - title: "Contact"
     url: /contact/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
